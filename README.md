@@ -95,5 +95,5 @@ npm run dev
 ---
 
 ## 🧑‍💼 Author
-- Ishaan Pathak
-- 📫 [GitHub](https://github.com/IshaanPathak25)
+- Yogendra kireeti
+- 📫 [GitHub](https://github.com/kireeti01/my-project)
