@@ -44,8 +44,7 @@ Expense-Tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/IshaanPathak25/Expense-Tracker.git
-cd Expense-Tracker
+https://github.com/kireeti01/my-project
 ```
 
 ### 2. Backend setup
